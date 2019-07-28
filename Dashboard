@@ -1,0 +1,15 @@
+
+echo "# FinalProject" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/x18127436/FinalProject.git
+git push -u origin master
+
+<iframe frameborder="0" marginheight="0" marginwidth="0" allowtransparency="true"src="https://github.com/x18127436/FinalProject.git&link=https://public.tableau.com/profile/lucasf1410#!/vizhome/x18127436_Project/Map%3F%3Aembed%3Dy%26%3Adisplay_count%3Dyes&param=Year&start=1990&end=2008&speed=2&fullscreen=y" height="827" width="1900"></iframe>
+git remote add origin https://github.com/x18127436/FinalProject.git
+git push -u origin master
+git clone https://github.com/username/username.github.io
+cd username.github.io
+
+echo "Hello World" > index.html
